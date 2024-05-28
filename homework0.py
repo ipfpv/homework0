@@ -1,7 +1,6 @@
-name = "Ilya Poluektov"
-print(name[0])
-print(name[-1])
-print(name[2:5])
-print(name[::-1])
-print(len(name))
-print("Hello, " + name + "!")
+example = 'Дождливый май'
+print(example[0])
+print(example[-1])
+print(example[5:])
+print(example[::-1])
+print(example[::2])
